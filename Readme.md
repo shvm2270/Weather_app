@@ -3,3 +3,4 @@ The Tech stack used in the project are as follows:
 a) HTML
 b) CSS
 c) JavaScript (Functions, Loops, Async functions, Await etc.)
+**The JS code is written inside the HTML code.**
